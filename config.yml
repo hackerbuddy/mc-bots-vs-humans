@@ -1,0 +1,9 @@
+admin: SupremeOverseer3
+humans:
+  - HumanOrBotPlayerName
+bots:
+  - HumanOrBotPlayerName
+humanTeamCoords:
+   x: 450
+   y: 100
+   z: 450
